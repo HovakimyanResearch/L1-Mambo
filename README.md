@@ -17,4 +17,4 @@ If you find this helpful to your research, please cite:
 
 ## License
 
-See the [License](License) file for details
+See the [License](License.txt) file for details
