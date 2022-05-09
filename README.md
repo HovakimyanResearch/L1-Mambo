@@ -18,3 +18,7 @@ If you find this helpful to your research, please cite:
 ## License
 
 See the [License](License.txt) file for details.
+
+## Contact
+
+If you have questions, please feel free to email me at zw24@illinois.edu.
